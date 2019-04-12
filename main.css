@@ -72,4 +72,6 @@ button:hover {
 #message {
     display: inline-block;
     width: 20%;
+    text-transform: uppercase;
+    font-size: 130%;
 }
