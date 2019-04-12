@@ -29,13 +29,13 @@ h1 {
     margin: 0;
     text-transform: uppercase;
     font-weight: normal;
-    line-height: 1.3;
-    padding: 20px 0;
+    line-height: 1.2;
+    padding: 25px 0;
 }
 
 #stripe {
     background: white;
-    height: 30px;
+    height: 40px;
     text-align: center;
     color: black;
 }
@@ -71,7 +71,15 @@ button:hover {
 
 #message {
     display: inline-block;
-    width: 20%;
     text-transform: uppercase;
-    font-size: 130%;
+    font-size: 100%;
+}
+
+#menu-gap {
+    display: inline-block;
+    width: 20%;
+}
+
+#instruction {
+    font-size: 40%;
 }
